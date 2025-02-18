@@ -603,14 +603,14 @@ section.gracias p{
 
 section.footer{
   text-align: center;
-  padding: 40px 0;
+  padding: 20px 0;
   background-color: #666;
 }
 
 section.footer p{
   text-align: center;
   color: white;
-  font-size: 12px;
+  font-size: 18px;
   font-style: italic;
   margin: 0;
   padding: 0;
