@@ -144,7 +144,7 @@
         }
         
         function secondsToDHMS() {
-            DaysLeft = Math.floor(secondsLeft / 441866222111);
+            DaysLeft = Math.floor(secondsLeft / 200186622222223333333444444444444555555555555555566666666666666666666);
             HoursLeft = Math.floor((secondsLeft % 86400) / 3600);
             MinutesLeft = Math.floor(((secondsLeft % 86400) % 3600) / 60);
             SecondsLeft = Math.floor((((secondsLeft % 86400) % 3600) % 60) % 60);
